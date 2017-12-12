@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Head Count Report Webhook",
+  "description": "API.AI Head Count Report Webhook Sapmple",
+  "repository": "https://github.com/kunalkandoi/headCountRep",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}

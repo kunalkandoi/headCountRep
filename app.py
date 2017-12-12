@@ -14,7 +14,7 @@ from pymongo import MongoClient
 app = Flask(__name__)
 
 #Connecting to MongoDB
-client = MongoClient("mongodb://dbuser:dbuser@ds137336.mlab.com:37336")
+client = MongoClient("mongodb://dbuser:dbuser@ds137336.mlab.com:37336/headcountdb")
 db = client.headcountdb
 
 
